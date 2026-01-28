@@ -112,7 +112,7 @@
         const colisForm = document.getElementById('colisForm');
         const infoForm = document.getElementById('infoForm');
         
-        const whatsappNumber = "+22777030941";
+        const whatsappNumber = "+22677030941";
         
         reservationForm.addEventListener('submit', (e) => {
             e.preventDefault();
@@ -236,4 +236,5 @@
         });
         
         // Initialize price display
+
         updatePrice();
